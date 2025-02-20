@@ -400,3 +400,8 @@ h2 {
   width: 400px !important;
   height: 600px !important;
 }
+.cover{
+  height: 20px;
+  width: 50px;
+  border: 2px solid white;
+}
